@@ -1,0 +1,107 @@
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\Ümit\Desktop\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+E:\Projelerim (C,C++,C#)\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Ümit\Desktop\Projelerim Arşiv\C#\Diğer C#\Sinema Rezervasyon Otomasyonu\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGiris.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmKayıt.resources
+C:\Users\Emir1\Desktop\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Form2.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe.config
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csprojResolveAssemblyReference.cache
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGiris.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Form2.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmKayıt.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
+F:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe.config
+F:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+F:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+E:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Form3.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe.config
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.exe
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.pdb
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.exe
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\bin\Debug\Sinema Rezervasyon Otomasyonu.pdb
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGiris.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Form2.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Form3.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmFilmKayit.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmGenel.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmKayıt.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.frmRezervasyon.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema_Rezervasyon_Otomasyonu.Properties.Resources.resources
+D:\Sinema Rezervasyon\Sinema Rezervasyon Otomasyonu\obj\Debug\Sinema Rezervasyon Otomasyonu.csproj.GenerateResource.Cache
